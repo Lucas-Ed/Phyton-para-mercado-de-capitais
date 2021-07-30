@@ -1,5 +1,5 @@
 
-### Aqui se encontra Scripts Phyton voltados para mercados de ativos em geral.
+### Aqui se encontra Scripts Python voltados para mercados de ativos em geral.
 
 ---
 ### Se quiser pode me pagar um cafézinho.
